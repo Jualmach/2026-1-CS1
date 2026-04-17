@@ -22,5 +22,3 @@ public class Facturador {
         System.out.println("Ciudad: " + cliente.getCiudad()); 
     } 
 } 
-
- 
